@@ -17,7 +17,6 @@ The goal is to transform raw job postings into structured data for better unders
 - Filter jobs based on location (Egypt, Cairo)
 - Clean and structure scraped data
 - Analyze job market trends
-- Identify most in-demand skills and roles
 
 ---
 
