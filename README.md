@@ -1,8 +1,9 @@
+<p align="center">
+  <img width="700" src="images/overview.png">
+</p>
+
 # 🔍 Wuzzuf Job Market Analysis using Web Scraping
 
-<img align="right" width="320" src="overview.png">
-
----
 
 ## 📊 Overview
 This project uses Python and Selenium to scrape job listings from Wuzzuf website.  
