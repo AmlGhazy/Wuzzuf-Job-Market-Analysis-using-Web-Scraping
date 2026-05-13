@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" src="images/overview.png">
+  <img width="700" src="overview.png">
 </p>
 
 # 🔍 Wuzzuf Job Market Analysis using Web Scraping
