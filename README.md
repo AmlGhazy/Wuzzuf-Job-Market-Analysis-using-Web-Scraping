@@ -1,6 +1,6 @@
 # 🔍 Wuzzuf Job Market Analysis using Web Scraping
 
-<img align="right" width="320" src="images/overview.png">
+<img align="right" width="320" src="overview.png">
 
 ---
 
